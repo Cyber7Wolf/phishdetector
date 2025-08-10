@@ -1,4 +1,34 @@
+HEAD
 ﻿MIT License
+
+﻿# 🔍 PhishDetector - AI-Powered URL Analyzer
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+Advanced phishing detection system using machine learning to analyze URLs in real-time.
+
+## ✨ Features
+- Real-time URL scanning
+- Brand impersonation detection (PayPal, Amazon, etc.)
+- Risk scoring with confidence percentage
+- Detailed threat analysis report
+
+## 🚀 Quick Start
+`ash
+git clone git@github.com:Cyber7Wolf/phishdetector.git
+cd phishdetector
+pip install -r requirements.txt
+python phishdetect.py
+
+
+
+### 2. Add an MIT License
+
+`powershell
+# Create LICENSE file
+@"
+MIT License
+ ca4698a3efaeed941fceb2dc8651dc5cd7bd6599
 
 Copyright (c) 2025 Cyber7Wolf
 
